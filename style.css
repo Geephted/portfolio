@@ -74,3 +74,22 @@ h5 {
     font-size: small;
     font-weight: 300;  
 }
+
+
+/* MEDIA QUERIES */
+
+/* MOBILE VIEW  */
+
+@media (max-width: 420px) {
+
+    .second_background{
+        height: 80%;
+        width: 80%;
+        margin: auto;
+        background-color: rgb(54, 52, 52);
+        border-radius: 10px;
+        padding-top: 30px;   
+    }
+
+
+}
